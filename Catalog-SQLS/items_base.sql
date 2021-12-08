@@ -46,7 +46,7 @@ CREATE TABLE `items_base` (
   `effect_id_female` int(3) NOT NULL DEFAULT 0,
   `clothing_on_walk` varchar(255) NOT NULL DEFAULT '',
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=50554 DEFAULT CHARSET=latin1 ROW_FORMAT=DYNAMIC;
+) ENGINE=InnoDB AUTO_INCREMENT=50554 DEFAULT CHARSET=utf8mb4 ROW_FORMAT=DYNAMIC;
 
 -- ----------------------------
 -- Records of items_base
