@@ -15,6 +15,8 @@ From Dippy/TheJava's initial work:
 
 Wullez = *Base to work with*
 
+Ultra = *AMS Catalog*
+
 Higoka = *Habbo Downloader*
 
 Wesley = *shitty emulator*
