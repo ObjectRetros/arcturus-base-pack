@@ -1,6 +1,13 @@
-# Arcturus Morningstar Default SWF Pack
+# Updated Arcturus Morningstar Default SWF Pack
 
-This is the default recommended SWF pack for Arcturus Morningstar. It includes a pre-patched swf for use with Apollyon, the original swf is called 'original-habbo.swf' under gordon.
+This is based off the original "Arcturus Morningstar Default SWF Pack".
+
+It includes:
+A huge & updated clothing pack - https://devbest.com/threads/huge-clothing-pack-most-recent-clothing-custom-clothing.92390/
+The AMS Catalog - https://git.krews.org/Ultra/CompleteAMSCatalogue
+The defautl SWF pack - https://git.krews.org/morningstar/arcturus-morningstar-default-swf-pack
+
+a pre-patched swf for use with Apollyon, the original swf is called 'original-habbo.swf' under gordon.
 
 **Credits:**
 
